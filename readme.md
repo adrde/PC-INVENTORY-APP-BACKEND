@@ -169,7 +169,7 @@ Authorization: Bearer <User Token>
 #### Approve PC Request (`PATCH /api/pcs/:id/approve`)
 
 **Access:** Admin-only route
-
+Healthcare Diagnosis: AI models can detect diseases from images (e.g., cancer detection from MRI scans).
 **Headers:**
 ```
 Authorization: Bearer <Admin Token>
